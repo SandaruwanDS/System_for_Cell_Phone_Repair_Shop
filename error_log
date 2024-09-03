@@ -1,0 +1,1 @@
+[25-Aug-2023 06:06:40 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.3.33. in /home2/accsbook/public_html/sbgoldloan/vendor/composer/platform_check.php on line 24
